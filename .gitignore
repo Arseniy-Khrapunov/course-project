@@ -1,0 +1,40 @@
+# C++ — результаты сборки
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.dll
+*.a
+*.lib
+
+# Папки сборки
+build/
+Debug/
+Release/
+out/
+cmake-build-*/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Java — скомпилированные классы
+*.class
+
+# Java — папки сборки
+target/
+java-version/build/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# Системные файлы
+.DS_Store
+Thumbs.db
