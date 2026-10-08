@@ -38,3 +38,8 @@ java-version/build/
 # Системные файлы
 .DS_Store
 Thumbs.db
+
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.*
