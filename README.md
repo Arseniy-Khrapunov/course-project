@@ -76,7 +76,7 @@ java -cp build com.station.Main
 cd cpp-version/lab2
 g++ -std=c++17 -Iinclude src/Module.cpp src/Crew.cpp src/Station.cpp src/main.cpp -o lab2
 ./lab2
-
+```
 
 ## Лабораторная работа 3. Java-версия
 
