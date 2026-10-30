@@ -31,7 +31,7 @@
 | Версия | Папка | Статус |
 |---|---|---|
 | C++ | `cpp-version/` | В работе |
-| Java | `java-version/` | Позже |
+| Java | `java-version/` | В работе |
 
 ## Структура
 
@@ -86,6 +86,7 @@ g++ -std=c++17 -Iinclude src/Module.cpp src/Crew.cpp src/Station.cpp src/main.cp
 cd java-version/lab3
 javac -d out src/*.java
 java -cp out Main
+```
 
 ## C++ версия (умные указатели)
 

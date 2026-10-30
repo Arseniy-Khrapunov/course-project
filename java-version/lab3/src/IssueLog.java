@@ -7,7 +7,7 @@ public class IssueLog implements AutoCloseable {
     }
 
     public void write(String line) {
-        System.out.println("    " + line);
+        System.out.println(" " + line);
     }
 
     @Override
