@@ -43,3 +43,7 @@ Thumbs.db
 *.sln
 *.vcxproj
 *.vcxproj.*
+
+# C++ builds
+*.exe
+cpp-version/lab4/lab4
